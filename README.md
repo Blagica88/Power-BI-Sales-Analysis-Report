@@ -4,7 +4,7 @@
 
 This project analyzes retail sales data from 2020 to 2021 using Power BI. It aims to provide insights into sales performance, helping retailers make data-driven decisions.
 
-![image](https://github.com/user-attachments/assets/6340446a-3613-4189-9af7-71b2e4d6fdc7)
+![image](https://github.com/user-attachments/assets/0f0b40d5-862d-4e84-88d8-22ed66fadb54)
 
 ## Motivation
 
